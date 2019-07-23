@@ -1,0 +1,6 @@
+to choose movie you have to press 1 .then list of predefined movies would come n u can choose from them n timimgs too..
+after chooseing show timimgs. you have to enter details like name , ph no, email, choose seat type :normal or premium.
+then you can even pay from card.
+your ticket details will be shown..
+the details of ticket will be stored in file named binary. txt.
+if you want 2 see ticket details again you can go to main menu n press 2. then it will show all ticket details..
